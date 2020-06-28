@@ -1,0 +1,42 @@
+.modal-add-new-point {
+  form {
+    margin: 20px;
+    text-align: center;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    align-items: center;
+    .form-content {
+      .form-row {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 20px;
+        label {
+          display: inline-block;
+          width: 80px;
+        }
+        input {
+          display: inline-block;
+          width: 200px;
+        }
+      }
+    }
+    .form-submit {
+      margin-left: 30px;
+    }
+  }
+  .close {
+    cursor: pointer;
+    position: absolute;
+    display: block;
+    padding: 2px 5px;
+    line-height: 20px;
+    right: -10px;
+    top: -10px;
+    font-size: 24px;
+    background: white;
+    border-radius: 18px;
+    border: 1px solid $border-grey;
+  }
+}
