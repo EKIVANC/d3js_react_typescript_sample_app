@@ -4,8 +4,8 @@ The app reads input values (x,y) from a mock API and drwas a line chart by using
 The application also includes new point adding feature.
 
 A sample screenshow of the app is as below:
-  
-![Sample Graph Image](./src/asset/image/screen_shot/sampleGraph.png =500x500)
+
+<img src="https://github.com/EKIVANC/d3js_react_typescript_sample_app/blob/master/src/asset/image/screen_shot/sampleGraph.png" alt="Sample Graph Image" width="1200" height="450">
 
 - Create-React-App used (Typescript project) 
 - A generic api integration layer implemented
