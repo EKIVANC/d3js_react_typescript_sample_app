@@ -1,4 +1,12 @@
-## NOTES
+# NOTES
+Sample project to demonstrate how to create a line-chart by using d3js and typescript in React. 
+The app reads input values (x,y) from a mock API and drwas a line chart by using d3.js. 
+The application also includes new point adding feature.
+
+A sample screenshow of the app is as below:
+  
+![Sample Graph Image](./src/asset/image/screen_shot/sampleGraph.png =500x500)
+
 - Create-React-App used (Typescript project) 
 - A generic api integration layer implemented
 - Linter configured & applied.
