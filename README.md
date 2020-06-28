@@ -1,6 +1,6 @@
 # NOTES
 Sample project to demonstrate how to create a line-chart by using d3js and typescript in React. 
-The app reads input values (x,y) from a mock API and drwas a line chart by using d3.js. 
+The app reads input values (x,y) from a mock API and draws a line chart by using d3.js. 
 The application also includes new point adding feature.
 
 A sample screenshow of the app is as below:
@@ -15,7 +15,7 @@ A sample screenshow of the app is as below:
 ### Postman mock server & Collections link:
 - As a mock server, postman is already configured. The endpoint and api url's can be found in .env file. 
 
-if required, the postman collections can also be generated with the following link: 
+if required, the postman collections can also be imported with the following link: 
 https://www.getpostman.com/collections/0aad77de47ab7e087b94
 
 
